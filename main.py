@@ -445,21 +445,3 @@ st.markdown(
 )
 st.write("---")
 
-# **12. Footer Section**
-st.markdown(
-    """
-    <footer style='text-align: center'>
-    Project Code: [Recycle Rangers_029] | Data Source: [kaggle](https://www.kaggle.com/datasets/khalidative/crimeanalysis)
-    
-    Credits:
-    This project was collaboratively developed and executed by the following team members:
-
-    -> Suhani - Report Compilation and Final Presentation |
-    -> Misba - Exploratory Data Analysis and Insights Generation |
-    -> Sougata - Data Visualization and Dashboard Design | 
-    -> Arpan - Data Cleaning and Preprocessing.
-
-    </footer>
-    """,
-    unsafe_allow_html=True
-)
