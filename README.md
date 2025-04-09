@@ -1,12 +1,9 @@
-# 🛡️ **Crime Analysis Dashboard**
-
-🌐 **Live App**: [Explore the Dashboard]((https://sc-crimeanalysis.streamlit.app/))
+# 🛡️ **Crime Prediction Analysis Dashboard**
 
 ---
 
 ## 📊 **About the Project**
-This project analyzes crime rates across various states and districts using the provided dataset, `crime_by_districts.csv`. It aims to uncover trends and patterns in crime occurrences, enabling data-driven decision-making and policy formulation.
-
+ This project is about creating an interactive dashboard that shows crime data for different districts across Indian states. The main aim is to find patterns, trends, and connections between different types of crimes over the years. This can help the police, government, and decision-makers take better actions to prevent crimes and keep people safe.
 ---
 
 ## 🛠️ **Key Features**
