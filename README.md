@@ -40,6 +40,28 @@ This project explores, visualizes, and analyzes crime data across Indian distric
 
 ---
 
+## 🚀 **How to Run Locally**
+
+## 🚀 **How to Run Locally**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Ritika-Chavhan/Recycle-Rangers
+   cd crime-analysis-dashboard
+
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
+3. **Run the App**:
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
 ## 🎯 Use Cases
 
 - Public awareness and crime transparency
@@ -58,10 +80,6 @@ This project explores, visualizes, and analyzes crime data across Indian distric
 
 ---
 
-## 🖼️ Dashboard Preview
 
-> Add dashboard screenshots or logos here using:
-```python
-st.image("images/dashboard_preview.png", use_column_width=True)
 
 ⭐ *Star this repository if you found it useful!* ⭐
