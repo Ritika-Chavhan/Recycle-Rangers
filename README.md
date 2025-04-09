@@ -1,6 +1,6 @@
 
 
-# 🕵️‍♂️ Crime Data Analysis & Visualization (India) 🇮🇳
+# 🕵️‍♂️ Crime Data Analysis & Visualization 
 
 This project explores, visualizes, and analyzes crime data across Indian districts and states using a cleaned dataset of crime statistics. It includes insightful charts, maps, and interactive dashboards — with a focused lens on trends, comparisons, and crimes against marginalized communities (SC/ST).
 
